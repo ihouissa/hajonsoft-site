@@ -1,5 +1,8 @@
 import { Play, Sparkles, CheckCircle2 } from 'lucide-react';
 
+const VIMEO_URL = 'https://vimeo.com/738277759';
+const VIMEO_EMBED_URL = 'https://player.vimeo.com/video/738277759?badge=0&autopause=0&player_id=0&app_id=58479';
+
 const translations = {
   en: {
     sectionEyebrow: "PRODUCT IN ACTION",
@@ -43,16 +46,26 @@ export default function VideoDemo() {
           <div className="lg:col-span-7">
             <div className="relative aspect-video w-full overflow-hidden rounded-[16px] border border-black/10 bg-[#043f2e]/5 shadow-xl transition-all hover:shadow-2xl">
               <iframe
-                src="https://player.vimeo.com/video/738277759?badge=0&autopause=0&player_id=0&app_id=58479"
+                src={VIMEO_EMBED_URL}
                 className="absolute inset-0 h-full w-full rounded-[16px]"
                 allow="autoplay; fullscreen; picture-in-picture"
                 allowFullScreen
                 title="HAJonSoft workflow walkthrough video"
               />
             </div>
-            <p className="text-center text-[11px] text-[#242423]/60 font-mono mt-3">
-              Workflow walkthrough video for HAJonSoft visa processing.
-            </p>
+            <div className="mt-3 text-center">
+              <p className="text-[11px] text-[#242423]/60 font-mono">
+                Workflow walkthrough video for HAJonSoft visa processing.
+              </p>
+              <a
+                href={VIMEO_URL}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="mt-2 inline-flex items-center justify-center rounded-[4px] border border-[#043f2e]/20 px-3 py-2 text-xs font-semibold uppercase tracking-[0.08em] text-[#043f2e] transition-colors hover:bg-[#eef2e3]"
+              >
+                Open video on Vimeo
+              </a>
+            </div>
           </div>
 
           {/* Right Column: Why Hajonsoft Checklist */}

@@ -178,20 +178,22 @@ export default function Hero({ onStartAutofill, onWatchVideo }: HeroProps) {
                   <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
                 </a>
                 {onWatchVideo && (
-                  <button
+                  <a
+                    href="#video"
                     onClick={onWatchVideo}
                     className="cursor-pointer group flex items-center justify-center gap-2 bg-[#043f2e] text-[#c8f169] px-6 py-3.5 text-base font-semibold rounded-[4px] hover:bg-[#2a6f2b] hover:text-white transition-all font-graphik border-0"
                   >
                     <Play className="h-4 w-4 fill-current shrink-0" />
                     {t.btnWatchVideo}
-                  </button>
+                  </a>
                 )}
-                <button
+                <a
+                  href="#autofill"
                   onClick={onStartAutofill}
                   className="cursor-pointer group flex items-center justify-center gap-2 border border-black/30 bg-transparent px-6 py-3.5 text-base font-semibold text-black rounded-[4px] hover:bg-[#eef2e3] transition-all font-graphik"
                 >
                   {t.btnAutofillPreview}
-                </button>
+                </a>
               </div>
             </div>
 

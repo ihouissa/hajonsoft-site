@@ -79,27 +79,27 @@ export default function App() {
         />
 
         {/* Features Bento Grid */}
-        <div id="features">
+        <div id="features" className="scroll-mt-16 md:scroll-mt-20">
           <Features />
         </div>
 
         {/* Video Demonstration Walkthrough */}
-        <div id="video">
+        <div id="video" className="scroll-mt-16 md:scroll-mt-20">
           <VideoDemo />
         </div>
 
         {/* Interactive workflow preview */}
-        <div id="autofill">
+        <div id="autofill" className="scroll-mt-16 md:scroll-mt-20">
           <AutofillPreview />
         </div>
 
         {/* Traveller record preview */}
-        <div id="workshop">
+        <div id="workshop" className="scroll-mt-16 md:scroll-mt-20">
           <BadgeGenerator />
         </div>
 
         {/* Source-backed software and support options */}
-        <div id="pricing">
+        <div id="pricing" className="scroll-mt-16 md:scroll-mt-20">
           <Pricing />
         </div>
 
