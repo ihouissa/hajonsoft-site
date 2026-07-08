@@ -1,11 +1,13 @@
 import { Chrome, Scan, Users, Globe, Printer, Shield } from 'lucide-react';
 
+const CONTACT_EMAIL = 'hajonsoft@gmail.com';
+
 const translations = {
   en: {
     sectionEyebrow: "WORKFLOWS",
     sectionTitle: "AI agents for Saudi Arabia visa processing.",
     sectionDesc: "HAJonSoft provides intelligent AI agents for travel agencies and visa processing centers, covering Umrah, Hajj, Visit Visa, Nusuk, passport scanning, and custom workflows.",
-    learnMore: "Learn more",
+    learnMore: "Ask about this",
     features: [
       {
         eyebrow: 'BROWSER ENHANCEMENT',
@@ -90,6 +92,7 @@ export default function Features() {
           {mainFeatures.map((feat, index) => {
             const Icon = feat.icon;
             const isWhite = feat.type === 'white';
+            const subject = encodeURIComponent(`Ask about ${feat.title}`);
             return (
               <div 
                 key={index}
@@ -132,14 +135,17 @@ export default function Features() {
                 </div>
 
                 {/* Bottom detail action line */}
-                <div className="mt-8 pt-4 border-t border-black/5 flex items-center justify-between">
+                <a
+                  href={`mailto:${CONTACT_EMAIL}?subject=${subject}`}
+                  className="mt-8 pt-4 border-t border-black/5 flex items-center justify-between cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-[#043f2e] focus-visible:ring-offset-4 focus-visible:ring-offset-transparent"
+                >
                   <span className="font-graphik text-xs font-semibold uppercase tracking-[0.06em] text-[#043f2e]">
                     {t.learnMore}
                   </span>
                   <span className="text-[#043f2e] transform transition-transform group-hover:translate-x-1">
                     →
                   </span>
-                </div>
+                </a>
               </div>
             );
           })}
