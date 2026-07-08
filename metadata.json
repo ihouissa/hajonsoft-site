@@ -1,0 +1,6 @@
+{
+  "name": "Hajonsoft",
+  "description": "Modern Umrah & Hajj visa automation and passport OCR platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

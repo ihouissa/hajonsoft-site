@@ -1,0 +1,277 @@
+src/App.tsx:62 [jsx-visible-text] jsx: AI AGENTS FOR SAUDI ARABIA VISA PROCESSING —
+src/App.tsx:67 [jsx-visible-text] jsx: Explore workflows
+src/components/BadgeGenerator.tsx:13 [english-translations] en.pilgrimId: PILGRIM ID • HAJONSOFT
+src/components/BadgeGenerator.tsx:14 [english-translations] en.passport: PASSPORT
+src/components/BadgeGenerator.tsx:15 [english-translations] en.makkahHotel: Makkah Hotel
+src/components/BadgeGenerator.tsx:16 [english-translations] en.madinahHotel: Madinah Hotel
+src/components/BadgeGenerator.tsx:17 [english-translations] en.groupAllocation: Group Allocation
+src/components/BadgeGenerator.tsx:18 [english-translations] en.luggageKey: LUGGAGE KEY
+src/components/BadgeGenerator.tsx:19 [english-translations] en.makkahHotelAddress: Makkah Hotel Address
+src/components/BadgeGenerator.tsx:20 [english-translations] en.peelAdhesive: PEEL ADHESIVE
+src/components/BadgeGenerator.tsx:21 [english-translations] en.approved: APPROVED
+src/components/BadgeGenerator.tsx:22 [english-translations] en.printTemplate: Print Template
+src/components/BadgeGenerator.tsx:23 [english-translations] en.printStudioOutput: Print Studio Output
+src/components/BadgeGenerator.tsx:24 [english-translations] en.makkahHotelVal: Swissôtel Makkah
+src/components/BadgeGenerator.tsx:25 [english-translations] en.madinahHotelVal: Dar Al Taqwa Hotel
+src/components/BadgeGenerator.tsx:26 [english-translations] en.groupVal: UK Elite Umrah July 2026
+src/components/BadgeGenerator.tsx:27 [english-translations] en.selectPilgrim: Select a pilgrim to update and design tags.
+src/components/BadgeGenerator.tsx:28 [english-translations] en.pilgrimManifest: Pilgrim Manifest
+src/components/BadgeGenerator.tsx:29 [english-translations] en.registerNew: Register New Pilgrim File
+src/components/BadgeGenerator.tsx:30 [english-translations] en.givenName: Given Name
+src/components/BadgeGenerator.tsx:31 [english-translations] en.surname: Surname
+src/components/BadgeGenerator.tsx:32 [english-translations] en.passportNo: Passport No
+src/components/BadgeGenerator.tsx:33 [english-translations] en.nationality: Nationality
+src/components/BadgeGenerator.tsx:34 [english-translations] en.addPilgrimBtn: Add Pilgrim
+src/components/BadgeGenerator.tsx:35 [english-translations] en.statusText: SYSTEM ACTIVE
+src/components/BadgeGenerator.tsx:36 [english-translations] en.sectionEyebrow: OPERATIONS PREVIEW
+src/components/BadgeGenerator.tsx:37 [english-translations] en.sectionTitle: Traveller Tag Preview
+src/components/BadgeGenerator.tsx:38 [english-translations] en.sectionDesc: Preview how prepared traveller records could be organized into practical IDs, luggage tags, and wristband-style layouts after visa workflow data is ready.
+src/components/BadgeGenerator.tsx:39 [english-translations] en.printBtn: Print Template
+src/components/BadgeGenerator.tsx:40 [english-translations] en.generateFileTitle: Generate High-Resolution Print File
+src/components/BadgeGenerator.tsx:41 [english-translations] en.generateFileDesc: Click below to generate thermal templates or trigger direct system printing for
+src/components/BadgeGenerator.tsx:42 [english-translations] en.compatibilitySpec: PRINTER COMPATIBILITY SPEC
+src/components/BadgeGenerator.tsx:43 [english-translations] en.compatibilityTitle: A visual concept for post-visa traveller organization.
+src/components/BadgeGenerator.tsx:44 [english-translations] en.compatibilityItem1: ✔ Uses prepared traveller records from the demo dataset
+src/components/BadgeGenerator.tsx:45 [english-translations] en.compatibilityItem2: ✔ Shows ID, luggage tag, and wristband-style layouts
+src/components/BadgeGenerator.tsx:46 [english-translations] en.compatibilityItem3: ✔ Keeps operational copy separate from unsupported printer claims
+src/components/BadgeGenerator.tsx:47 [english-translations] en.givenNamePlaceholder: e.g. FATIMA
+src/components/BadgeGenerator.tsx:48 [english-translations] en.surnamePlaceholder: e.g. REHMAN
+src/components/BadgeGenerator.tsx:49 [english-translations] en.passportPlaceholder: e.g. G44556677
+src/components/BadgeGenerator.tsx:50 [english-translations] en.cancel: Cancel
+src/components/BadgeGenerator.tsx:51 [english-translations] en.meccaAcc: Mecca Accommodation
+src/components/BadgeGenerator.tsx:52 [english-translations] en.madinahAcc: Medina Accommodation
+src/components/BadgeGenerator.tsx:53 [english-translations] en.idBadgeTab: ID Badge
+src/components/BadgeGenerator.tsx:54 [english-translations] en.luggageTagTab: Luggage Tag
+src/components/BadgeGenerator.tsx:55 [english-translations] en.wristbandTab: Wristband
+src/components/BadgeGenerator.tsx:398 [jsx-attribute-copy] placeholder: e.g. FATIMA
+src/components/BadgeGenerator.tsx:409 [jsx-attribute-copy] placeholder: e.g. REHMAN
+src/components/BadgeGenerator.tsx:423 [jsx-attribute-copy] placeholder: e.g. G44556677
+src/components/BadgeGenerator.tsx:434 [jsx-visible-text] jsx: United Kingdom
+src/components/BadgeGenerator.tsx:435 [jsx-visible-text] jsx: Canada
+src/components/BadgeGenerator.tsx:436 [jsx-visible-text] jsx: Indonesia
+src/components/BadgeGenerator.tsx:437 [jsx-visible-text] jsx: Germany
+src/components/BadgeGenerator.tsx:438 [jsx-visible-text] jsx: France
+src/components/BadgeGenerator.tsx:501 [jsx-visible-text] jsx: •
+src/components/BadgeGenerator.tsx:591 [jsx-visible-text] jsx: :
+src/components/BadgeGenerator.tsx:701 [jsx-visible-text] jsx: |
+src/components/BadgeGenerator.tsx:725 [jsx-visible-text] jsx: .
+src/components/Features.tsx:6 [english-translations] en.sectionEyebrow: SOURCE-TRUTH WORKFLOWS
+src/components/Features.tsx:7 [english-translations] en.sectionTitle: AI agents for Saudi Arabia visa processing.
+src/components/Features.tsx:8 [english-translations] en.sectionDesc: HAJonSoft provides intelligent AI agents for travel agencies and visa processing centers, covering Umrah, Hajj, Visit Visa, Nusuk, passport scanning, and custom workflows.
+src/components/Features.tsx:9 [english-translations] en.learnMore: Learn more
+src/components/Features.tsx:12 [english-translations] en.features[0].eyebrow: BROWSER ENHANCEMENT
+src/components/Features.tsx:13 [english-translations] en.features[0].title: Umrah AI Agent
+src/components/Features.tsx:14 [english-translations] en.features[0].description: Automates Umrah visa submissions through Masar and Bab Al-Umrah workflows by sending traveller information to Saudi Arabia visa sites, handling passport data entry, photo uploads, and form submissions.
+src/components/Features.tsx:15 [english-translations] en.features[0].tag: Umrah
+src/components/Features.tsx:16 [english-translations] en.features[0].type: white
+src/components/Features.tsx:20 [english-translations] en.features[1].eyebrow: HARDWARE & WEB OCR
+src/components/Features.tsx:21 [english-translations] en.features[1].title: Passport Scanning AI Agent
+src/components/Features.tsx:22 [english-translations] en.features[1].description: Reads passport data from passport images, including Arabic names and birthplace fields. It reads both the MRZ and the visual area of the passport page.
+src/components/Features.tsx:23 [english-translations] en.features[1].tag: Passport Scanning
+src/components/Features.tsx:24 [english-translations] en.features[1].type: sage
+src/components/Features.tsx:28 [english-translations] en.features[2].eyebrow: B2B MANAGEMENT
+src/components/Features.tsx:29 [english-translations] en.features[2].title: Hajj AI Agent
+src/components/Features.tsx:30 [english-translations] en.features[2].description: Submits Hajj visa applications to the Saudi Arabia eHaj system with one streamlined process, including package creation support and photo dimension adjustments before upload.
+src/components/Features.tsx:31 [english-translations] en.features[2].tag: Hajj
+src/components/Features.tsx:32 [english-translations] en.features[2].type: sage
+src/components/Features.tsx:36 [english-translations] en.features[3].eyebrow: ENTERPRISE CONNECTIVITY
+src/components/Features.tsx:37 [english-translations] en.features[3].title: Visit Visa AI Agent
+src/components/Features.tsx:38 [english-translations] en.features[3].description: Processes Saudi Arabia visit visa applications through automated form filling and document submission for agencies handling business, family, or tourist visas at scale.
+src/components/Features.tsx:39 [english-translations] en.features[3].tag: Visit Visa
+src/components/Features.tsx:40 [english-translations] en.features[3].type: white
+src/components/Features.tsx:44 [english-translations] en.features[4].eyebrow: PHYSICAL OPERATIONS
+src/components/Features.tsx:45 [english-translations] en.features[4].title: Nusuk & Custom AI Agents
+src/components/Features.tsx:46 [english-translations] en.features[4].description: Automates Hajj registration by sending traveller data to Saudi Arabia's Nusuk platform. Custom agents, including Rawda workflows, can be built when needed.
+src/components/Features.tsx:47 [english-translations] en.features[4].tag: Custom Workflows
+src/components/Features.tsx:48 [english-translations] en.features[4].type: white
+src/components/Features.tsx:52 [english-translations] en.features[5].eyebrow: COMPLIANCE & PROTECTION
+src/components/Features.tsx:53 [english-translations] en.features[5].title: Dove Online Sales
+src/components/Features.tsx:54 [english-translations] en.features[5].description: Sell travel packages through Dove, a customizable online storefront hosted on your domain, where travellers can reserve packages and submit passport details and personal photos.
+src/components/Features.tsx:55 [english-translations] en.features[5].tag: Online Sales
+src/components/Features.tsx:56 [english-translations] en.features[5].type: sage
+src/components/Features.tsx:395 [jsx-visible-text] jsx: →
+src/components/Footer.tsx:7 [english-translations] en.description: HAJonSoft provides intelligent AI agents for travel agencies and visa processing centers, covering Umrah, Hajj, Visit Visa, Nusuk, and passport scanning.
+src/components/Footer.tsx:8 [english-translations] en.productsTitle: Products
+src/components/Footer.tsx:9 [english-translations] en.portalsTitle: Visa Workflows
+src/components/Footer.tsx:10 [english-translations] en.resourcesTitle: Travel Agent Resources
+src/components/Footer.tsx:11 [english-translations] en.resourcesDesc: HAJonSoft helps agencies send traveller information to Saudi Arabia visa sites through guided AI agent workflows.
+src/components/Footer.tsx:12 [english-translations] en.statusTitle: Support
+src/components/Footer.tsx:13 [english-translations] en.statusText: Meetings, video calls, and remote assistance:
+src/components/Footer.tsx:14 [english-translations] en.statusActive: AVAILABLE
+src/components/Footer.tsx:15 [english-translations] en.copyright: HAJonSoft. All rights reserved.
+src/components/Footer.tsx:16 [english-translations] en.privacy: Privacy Policy
+src/components/Footer.tsx:17 [english-translations] en.terms: Terms of Service
+src/components/Footer.tsx:113 [jsx-visible-text] jsx: hajonsoft@gmail.com
+src/components/Footer.tsx:117 [jsx-visible-text] jsx: 1 (949) 522-1879
+src/components/Footer.tsx:128 [jsx-visible-text] jsx: Umrah AI Agent
+src/components/Footer.tsx:129 [jsx-visible-text] jsx: Hajj AI Agent
+src/components/Footer.tsx:130 [jsx-visible-text] jsx: Visit Visa AI Agent
+src/components/Footer.tsx:131 [jsx-visible-text] jsx: Nusuk AI Agent
+src/components/Footer.tsx:132 [jsx-visible-text] jsx: Passport Scanning AI Agent
+src/components/Footer.tsx:142 [jsx-visible-text] jsx: Bab Al-Umrah workflows
+src/components/Footer.tsx:143 [jsx-visible-text] jsx: Masar workflows
+src/components/Footer.tsx:144 [jsx-visible-text] jsx: eHaj workflows
+src/components/Footer.tsx:145 [jsx-visible-text] jsx: Nusuk workflows
+src/components/Footer.tsx:146 [jsx-visible-text] jsx: Saudi visit visa workflows
+src/components/Footer.tsx:170 [jsx-visible-text] jsx: ©
+src/components/Footer.tsx:174 [jsx-visible-text] jsx: SYSTEM_UTC: 2026-07-07
+src/components/Footer.tsx:175 [jsx-visible-text] jsx: |
+src/components/Hero.tsx:10 [english-translations] en.promoRelease: Source-truth workflows
+src/components/Hero.tsx:11 [english-translations] en.promoTxt: Umrah, Hajj, Visit Visa, Nusuk & passport scanning
+src/components/Hero.tsx:12 [english-translations] en.certMin: AI agents for Umrah, Hajj, Visit Visa, Nusuk, and custom workflows
+src/components/Hero.tsx:13 [english-translations] en.certEnc: Passport image reading across MRZ and visual passport fields
+src/components/Hero.tsx:14 [english-translations] en.certPlat: Hands-on support through meetings, video calls, and remote assistance
+src/components/Hero.tsx:15 [english-translations] en.botanical: AI AGENTS FOR SAUDI VISA WORKFLOWS
+src/components/Hero.tsx:16 [english-translations] en.mainTitle: Automating Saudi Arabia visa workflows.
+src/components/Hero.tsx:17 [english-translations] en.mainDesc: HAJonSoft provides intelligent AI agents that send traveller information to Saudi Arabia visa sites, helping travel agencies streamline Umrah, Hajj, Visit Visa, Nusuk, and passport scanning work.
+src/components/Hero.tsx:18 [english-translations] en.btnSandbox: Launch Live Sandbox
+src/components/Hero.tsx:19 [english-translations] en.btnWorkshop: Traveller Tags
+src/components/Hero.tsx:20 [english-translations] en.btnWatchVideo: Watch Demo Video
+src/components/Hero.tsx:21 [english-translations] en.btnTryFree: Try for Free
+src/components/Hero.tsx:22 [english-translations] en.speedTitle: ACTIVE AGENTS
+src/components/Hero.tsx:23 [english-translations] en.speedVal: 4
+src/components/Hero.tsx:24 [english-translations] en.speedDesc: Umrah, Hajj, Visit Visa & Nusuk
+src/components/Hero.tsx:25 [english-translations] en.precisionTitle: PASSPORT READING
+src/components/Hero.tsx:26 [english-translations] en.precisionVal: MRZ+
+src/components/Hero.tsx:27 [english-translations] en.precisionDesc: visual passport fields supported
+src/components/Hero.tsx:28 [english-translations] en.pilgrimsTitle: GLOBAL REACH
+src/components/Hero.tsx:29 [english-translations] en.pilgrimsVal: 40+
+src/components/Hero.tsx:30 [english-translations] en.pilgrimsDesc: countries served with multilingual support
+src/components/Hero.tsx:31 [english-translations] en.makkahTab: Makkah
+src/components/Hero.tsx:32 [english-translations] en.medinaTab: Medina
+src/components/Hero.tsx:33 [english-translations] en.makkahFull: Makkah Al-Mukarramah
+src/components/Hero.tsx:34 [english-translations] en.medinaFull: Al-Madinah Al-Munawwarah
+src/components/Hero.tsx:35 [english-translations] en.destMakkahTag: HAJJ & UMRAH LOGISTICS
+src/components/Hero.tsx:36 [english-translations] en.destMakkahDesc: Prepare traveller information for Umrah and Hajj visa workflows.
+src/components/Hero.tsx:37 [english-translations] en.destMedinaTag: ZIYARAH ITINERARIES
+src/components/Hero.tsx:38 [english-translations] en.destMedinaDesc: Organize traveller data ahead of Saudi Arabia visa submissions.
+src/components/Hero.tsx:238 [jsx-visible-text] jsx: |
+src/components/Navbar.tsx:15 [english-translations] en.features: Features
+src/components/Navbar.tsx:16 [english-translations] en.sandbox: Visa Sandbox
+src/components/Navbar.tsx:17 [english-translations] en.workshop: Traveller Tags
+src/components/Navbar.tsx:18 [english-translations] en.pricing: Pricing
+src/components/Navbar.tsx:19 [english-translations] en.requestDemo: Request Demo
+src/components/Navbar.tsx:20 [english-translations] en.installExtension: Install Extension
+src/components/Navbar.tsx:21 [english-translations] en.tryForFree: Try for Free
+src/components/Navbar.tsx:119 [jsx-visible-text] jsx: 🌐
+src/components/Navbar.tsx:125 [jsx-visible-text] jsx: English
+src/components/Navbar.tsx:126 [jsx-visible-text] jsx: العربية
+src/components/Navbar.tsx:127 [jsx-visible-text] jsx: Türkçe
+src/components/Navbar.tsx:128 [jsx-visible-text] jsx: Français
+src/components/Navbar.tsx:129 [jsx-visible-text] jsx: Indonesia
+src/components/Navbar.tsx:130 [jsx-visible-text] jsx: اردو
+src/components/Pricing.tsx:6 [english-translations] en.sectionEyebrow: SOURCE-TRUTH PRICING
+src/components/Pricing.tsx:7 [english-translations] en.sectionTitle: Software, seasonal support, and volume pricing.
+src/components/Pricing.tsx:8 [english-translations] en.sectionDesc: The old site positions pricing around one-time software activation, seasonal support, 15-year support terms, and volume pricing. Final pricing should be confirmed by HAJonSoft.
+src/components/Pricing.tsx:9 [english-translations] en.includesLabel: Includes:
+src/components/Pricing.tsx:10 [english-translations] en.mostPopularBadge: Most Popular
+src/components/Pricing.tsx:13 [english-translations] en.plans[0].name: Software & Database
+src/components/Pricing.tsx:14 [english-translations] en.plans[0].price: Quote
+src/components/Pricing.tsx:15 [english-translations] en.plans[0].period: one-time
+src/components/Pricing.tsx:16 [english-translations] en.plans[0].description: Includes a database, storage for passport and photo data, dedicated sales and admin portals, and lifetime software updates.
+src/components/Pricing.tsx:18 [english-translations] en.plans[0].features[0]: One-time software activation
+src/components/Pricing.tsx:19 [english-translations] en.plans[0].features[1]: Dedicated sales and admin portals
+src/components/Pricing.tsx:20 [english-translations] en.plans[0].features[2]: Passport and photo data storage
+src/components/Pricing.tsx:21 [english-translations] en.plans[0].features[3]: Lifetime software updates
+src/components/Pricing.tsx:22 [english-translations] en.plans[0].features[4]: Required purchase to activate the software
+src/components/Pricing.tsx:23 [english-translations] en.plans[0].features[5]: Non-refundable according to old-site copy
+src/components/Pricing.tsx:25 [english-translations] en.plans[0].tag: Basic
+src/components/Pricing.tsx:27 [english-translations] en.plans[0].cta: Get a Quote
+src/components/Pricing.tsx:30 [english-translations] en.plans[1].name: Seasonal Support
+src/components/Pricing.tsx:31 [english-translations] en.plans[1].price: Quote
+src/components/Pricing.tsx:32 [english-translations] en.plans[1].period: per season
+src/components/Pricing.tsx:33 [english-translations] en.plans[1].description: Support for Hajj and Umrah seasons, including meetings, machine connection, videos, phone calls, and hands-on help.
+src/components/Pricing.tsx:35 [english-translations] en.plans[1].features[0]: Umrah seasonal support
+src/components/Pricing.tsx:36 [english-translations] en.plans[1].features[1]: Hajj seasonal support
+src/components/Pricing.tsx:37 [english-translations] en.plans[1].features[2]: Meetings and video training
+src/components/Pricing.tsx:38 [english-translations] en.plans[1].features[3]: Remote assistance on your machine
+src/components/Pricing.tsx:39 [english-translations] en.plans[1].features[4]: Up to 100 visa submissions by proxy in supported plans
+src/components/Pricing.tsx:40 [english-translations] en.plans[1].features[5]: Technical support
+src/components/Pricing.tsx:42 [english-translations] en.plans[1].tag: Most Popular
+src/components/Pricing.tsx:44 [english-translations] en.plans[1].cta: Learn More
+src/components/Pricing.tsx:47 [english-translations] en.plans[2].name: Lifetime Proxy Access
+src/components/Pricing.tsx:48 [english-translations] en.plans[2].price: Quote
+src/components/Pricing.tsx:49 [english-translations] en.plans[2].period: 15-year term
+src/components/Pricing.tsx:50 [english-translations] en.plans[2].description: Long-term support for Hajj and Umrah operations, including troubleshooting and expert support for agency workflows.
+src/components/Pricing.tsx:52 [english-translations] en.plans[2].features[0]: 15 years of support
+src/components/Pricing.tsx:53 [english-translations] en.plans[2].features[1]: Hajj and Umrah support
+src/components/Pricing.tsx:54 [english-translations] en.plans[2].features[2]: Daily visa application processing support
+src/components/Pricing.tsx:55 [english-translations] en.plans[2].features[3]: Troubleshooting assistance
+src/components/Pricing.tsx:56 [english-translations] en.plans[2].features[4]: Expert support for agency operations
+src/components/Pricing.tsx:57 [english-translations] en.plans[2].features[5]: Volume pricing available
+src/components/Pricing.tsx:59 [english-translations] en.plans[2].tag: Long-Term Support
+src/components/Pricing.tsx:61 [english-translations] en.plans[2].cta: Get a Quote
+src/components/Pricing.tsx:440 [jsx-visible-text] jsx: /
+src/components/Sandbox.tsx:10 [english-translations] en.demoBadge: LIVE PRODUCT DEMO
+src/components/Sandbox.tsx:11 [english-translations] en.demoTitle: See the OCR Scanner & Autofiller in Action
+src/components/Sandbox.tsx:12 [english-translations] en.demoDesc: Select a sample passport from the travel agent's queue below, trigger the MRZ scanner, and see how our browser extension auto-populates the Saudi portals instantly.
+src/components/Sandbox.tsx:13 [english-translations] en.step1Title: Select Pilgrim Passport
+src/components/Sandbox.tsx:14 [english-translations] en.step1Desc: Choose a country-specific passport to simulate scanning.
+src/components/Sandbox.tsx:15 [english-translations] en.step2Title: Hajonsoft OCR Scan
+src/components/Sandbox.tsx:16 [english-translations] en.step2Ready: Ready
+src/components/Sandbox.tsx:17 [english-translations] en.awaitingFeed: Awaiting passport feed...
+src/components/Sandbox.tsx:18 [english-translations] en.extDataFields: Extracted Data Fields
+src/components/Sandbox.tsx:19 [english-translations] en.givenName: Given Name
+src/components/Sandbox.tsx:20 [english-translations] en.surname: Surname
+src/components/Sandbox.tsx:21 [english-translations] en.passportNo: Passport No.
+src/components/Sandbox.tsx:22 [english-translations] en.nationality: Nationality
+src/components/Sandbox.tsx:23 [english-translations] en.dob: Date of Birth
+src/components/Sandbox.tsx:24 [english-translations] en.expiryDate: Expiry Date
+src/components/Sandbox.tsx:25 [english-translations] en.step3Title: Saudi Visa Portal Autofill
+src/components/Sandbox.tsx:26 [english-translations] en.step3Desc: Select Ministry system to push pilgrim data.
+src/components/Sandbox.tsx:27 [english-translations] en.extensionActive: Extension Active
+src/components/Sandbox.tsx:28 [english-translations] en.ministryHeader: MINISTRY OF HAJJ AND UMRAH
+src/components/Sandbox.tsx:29 [english-translations] en.visaAppModule: Visa Application Module
+src/components/Sandbox.tsx:30 [english-translations] en.formIdLabel: Form-ID: MoHU-204
+src/components/Sandbox.tsx:31 [english-translations] en.passportNumLabel: Passport Number
+src/components/Sandbox.tsx:32 [english-translations] en.nationalityLabel: Nationality / GDS Country
+src/components/Sandbox.tsx:33 [english-translations] en.givenNameLabel: English Given Name
+src/components/Sandbox.tsx:34 [english-translations] en.surnameLabel: English Father/Surname
+src/components/Sandbox.tsx:35 [english-translations] en.dobLabel: Date of Birth (YYYY-MM-DD)
+src/components/Sandbox.tsx:36 [english-translations] en.expiryLabel: Passport Expiry Date
+src/components/Sandbox.tsx:37 [english-translations] en.genderLabel: Gender
+src/components/Sandbox.tsx:38 [english-translations] en.birthPlaceLabel: City of Birth
+src/components/Sandbox.tsx:39 [english-translations] en.triggerQuestion: Ready to trigger Hajonsoft Extension?
+src/components/Sandbox.tsx:40 [english-translations] en.triggerDesc: Pushing this data will demonstrate how traveller information can populate the target visa workflow fields.
+src/components/Sandbox.tsx:41 [english-translations] en.btnFilling: Filling Form...
+src/components/Sandbox.tsx:42 [english-translations] en.btnAutofill: Autofill Form
+src/components/Sandbox.tsx:44 [english-translations] en.scanLogs[0]: Initializing camera & flatbed interfaces...
+src/components/Sandbox.tsx:45 [english-translations] en.scanLogs[1]: Locating ICAO Document machine-readable zones...
+src/components/Sandbox.tsx:46 [english-translations] en.scanLogs[2]: Decoding MRZ character lines 1 & 2...
+src/components/Sandbox.tsx:47 [english-translations] en.scanLogs[3]: Validating checksum algorithms & expiration checks...
+src/components/Sandbox.tsx:48 [english-translations] en.scanLogs[4]: Extraction finished successfully.
+src/components/Sandbox.tsx:396 [jsx-visible-text] jsx: 1
+src/components/Sandbox.tsx:436 [jsx-visible-text] jsx: 2
+src/components/Sandbox.tsx:464 [jsx-visible-text] jsx: HAJONSOFT_OCR_v5.4
+src/components/Sandbox.tsx:465 [jsx-visible-text] jsx: BAUD_9600
+src/components/Sandbox.tsx:472 [jsx-visible-text] jsx: ▶ ANALYZING...
+src/components/Sandbox.tsx:481 [jsx-visible-text] jsx: ⚡ OCR EXTRACTION READY
+src/components/Sandbox.tsx:482 [jsx-visible-text] jsx: MRZ_L1:
+src/components/Sandbox.tsx:483 [jsx-visible-text] jsx: MRZ_L2:
+src/components/Sandbox.tsx:485 [jsx-visible-text] jsx: PASSPORT:
+src/components/Sandbox.tsx:486 [jsx-visible-text] jsx: NATION:
+src/components/Sandbox.tsx:487 [jsx-visible-text] jsx: NAME:
+src/components/Sandbox.tsx:488 [jsx-visible-text] jsx: SURNAME:
+src/components/Sandbox.tsx:500 [jsx-visible-text] jsx: D-READER_ONLINE
+src/components/Sandbox.tsx:501 [jsx-visible-text] jsx: SYSTEM_STABLE
+src/components/Sandbox.tsx:526 [jsx-visible-text] jsx: (
+src/components/Sandbox.tsx:526 [jsx-visible-text] jsx: )
+src/components/Sandbox.tsx:549 [jsx-visible-text] jsx: 3
+src/components/Sandbox.tsx:589 [jsx-visible-text] jsx: https://
+src/components/Sandbox.tsx:589 [jsx-visible-text] jsx: .passport.gov.sa/visa/apply
+src/components/Sandbox.tsx:621 [jsx-visible-text] jsx: *
+src/components/Sandbox.tsx:627 [jsx-attribute-copy] placeholder: --
+src/components/VideoDemo.tsx:6 [english-translations] en.sectionEyebrow: PRODUCT IN ACTION
+src/components/VideoDemo.tsx:7 [english-translations] en.sectionTitle: Watch Hajonsoft in action
+src/components/VideoDemo.tsx:8 [english-translations] en.sectionDesc: Watch how HAJonSoft AI agents scan passports, fill visa forms automatically, and send traveller information to Saudi Arabia visa sites in one guided workflow.
+src/components/VideoDemo.tsx:9 [english-translations] en.featuresTitle: Why travel agents choose Hajonsoft
+src/components/VideoDemo.tsx:10 [english-translations] en.feature1: AI agents for Umrah, Hajj, Visit Visa, Nusuk, and passport scanning
+src/components/VideoDemo.tsx:11 [english-translations] en.feature2: Passport image reading across MRZ and visual passport fields
+src/components/VideoDemo.tsx:12 [english-translations] en.feature3: Automatic photo resizing and form submission support
+src/components/VideoDemo.tsx:13 [english-translations] en.feature4: Custom agents such as Rawda workflows when needed
+src/components/VideoDemo.tsx:14 [english-translations] en.feature5: Hands-on support through meetings, video calls, and remote assistance
+src/components/VideoDemo.tsx:15 [english-translations] en.watchVideoBtn: Watch Walkthrough Demo
+src/components/VideoDemo.tsx:115 [jsx-attribute-copy] title: Hajonsoft Official Video Walkthrough Demo
+src/components/VideoDemo.tsx:119 [jsx-visible-text] jsx: Official demonstration video of the Hajonsoft Automated Visa Suite.
+src/components/VideoDemo.tsx:147 [jsx-visible-text] jsx: Need a custom agent?
+src/components/VideoDemo.tsx:150 [jsx-visible-text] jsx: HAJonSoft can build specialized agents, including Rawda workflows and other Saudi Arabia visa processing needs.

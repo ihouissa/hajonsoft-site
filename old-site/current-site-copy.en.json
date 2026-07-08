@@ -1,0 +1,1941 @@
+[
+  {
+    "file": "src/App.tsx",
+    "line": 62,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "AI AGENTS FOR SAUDI ARABIA VISA PROCESSING —"
+  },
+  {
+    "file": "src/App.tsx",
+    "line": 67,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "Explore workflows"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 13,
+    "category": "english-translations",
+    "key": "en.pilgrimId",
+    "value": "PILGRIM ID • HAJONSOFT"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 14,
+    "category": "english-translations",
+    "key": "en.passport",
+    "value": "PASSPORT"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 15,
+    "category": "english-translations",
+    "key": "en.makkahHotel",
+    "value": "Makkah Hotel"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 16,
+    "category": "english-translations",
+    "key": "en.madinahHotel",
+    "value": "Madinah Hotel"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 17,
+    "category": "english-translations",
+    "key": "en.groupAllocation",
+    "value": "Group Allocation"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 18,
+    "category": "english-translations",
+    "key": "en.luggageKey",
+    "value": "LUGGAGE KEY"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 19,
+    "category": "english-translations",
+    "key": "en.makkahHotelAddress",
+    "value": "Makkah Hotel Address"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 20,
+    "category": "english-translations",
+    "key": "en.peelAdhesive",
+    "value": "PEEL ADHESIVE"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 21,
+    "category": "english-translations",
+    "key": "en.approved",
+    "value": "APPROVED"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 22,
+    "category": "english-translations",
+    "key": "en.printTemplate",
+    "value": "Print Template"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 23,
+    "category": "english-translations",
+    "key": "en.printStudioOutput",
+    "value": "Print Studio Output"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 24,
+    "category": "english-translations",
+    "key": "en.makkahHotelVal",
+    "value": "Swissôtel Makkah"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 25,
+    "category": "english-translations",
+    "key": "en.madinahHotelVal",
+    "value": "Dar Al Taqwa Hotel"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 26,
+    "category": "english-translations",
+    "key": "en.groupVal",
+    "value": "UK Elite Umrah July 2026"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 27,
+    "category": "english-translations",
+    "key": "en.selectPilgrim",
+    "value": "Select a pilgrim to update and design tags."
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 28,
+    "category": "english-translations",
+    "key": "en.pilgrimManifest",
+    "value": "Pilgrim Manifest"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 29,
+    "category": "english-translations",
+    "key": "en.registerNew",
+    "value": "Register New Pilgrim File"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 30,
+    "category": "english-translations",
+    "key": "en.givenName",
+    "value": "Given Name"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 31,
+    "category": "english-translations",
+    "key": "en.surname",
+    "value": "Surname"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 32,
+    "category": "english-translations",
+    "key": "en.passportNo",
+    "value": "Passport No"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 33,
+    "category": "english-translations",
+    "key": "en.nationality",
+    "value": "Nationality"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 34,
+    "category": "english-translations",
+    "key": "en.addPilgrimBtn",
+    "value": "Add Pilgrim"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 35,
+    "category": "english-translations",
+    "key": "en.statusText",
+    "value": "SYSTEM ACTIVE"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 36,
+    "category": "english-translations",
+    "key": "en.sectionEyebrow",
+    "value": "OPERATIONS PREVIEW"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 37,
+    "category": "english-translations",
+    "key": "en.sectionTitle",
+    "value": "Traveller Tag Preview"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 38,
+    "category": "english-translations",
+    "key": "en.sectionDesc",
+    "value": "Preview how prepared traveller records could be organized into practical IDs, luggage tags, and wristband-style layouts after visa workflow data is ready."
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 39,
+    "category": "english-translations",
+    "key": "en.printBtn",
+    "value": "Print Template"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 40,
+    "category": "english-translations",
+    "key": "en.generateFileTitle",
+    "value": "Generate High-Resolution Print File"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 41,
+    "category": "english-translations",
+    "key": "en.generateFileDesc",
+    "value": "Click below to generate thermal templates or trigger direct system printing for"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 42,
+    "category": "english-translations",
+    "key": "en.compatibilitySpec",
+    "value": "PRINTER COMPATIBILITY SPEC"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 43,
+    "category": "english-translations",
+    "key": "en.compatibilityTitle",
+    "value": "A visual concept for post-visa traveller organization."
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 44,
+    "category": "english-translations",
+    "key": "en.compatibilityItem1",
+    "value": "✔ Uses prepared traveller records from the demo dataset"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 45,
+    "category": "english-translations",
+    "key": "en.compatibilityItem2",
+    "value": "✔ Shows ID, luggage tag, and wristband-style layouts"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 46,
+    "category": "english-translations",
+    "key": "en.compatibilityItem3",
+    "value": "✔ Keeps operational copy separate from unsupported printer claims"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 47,
+    "category": "english-translations",
+    "key": "en.givenNamePlaceholder",
+    "value": "e.g. FATIMA"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 48,
+    "category": "english-translations",
+    "key": "en.surnamePlaceholder",
+    "value": "e.g. REHMAN"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 49,
+    "category": "english-translations",
+    "key": "en.passportPlaceholder",
+    "value": "e.g. G44556677"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 50,
+    "category": "english-translations",
+    "key": "en.cancel",
+    "value": "Cancel"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 51,
+    "category": "english-translations",
+    "key": "en.meccaAcc",
+    "value": "Mecca Accommodation"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 52,
+    "category": "english-translations",
+    "key": "en.madinahAcc",
+    "value": "Medina Accommodation"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 53,
+    "category": "english-translations",
+    "key": "en.idBadgeTab",
+    "value": "ID Badge"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 54,
+    "category": "english-translations",
+    "key": "en.luggageTagTab",
+    "value": "Luggage Tag"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 55,
+    "category": "english-translations",
+    "key": "en.wristbandTab",
+    "value": "Wristband"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 398,
+    "category": "jsx-attribute-copy",
+    "key": "placeholder",
+    "value": "e.g. FATIMA"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 409,
+    "category": "jsx-attribute-copy",
+    "key": "placeholder",
+    "value": "e.g. REHMAN"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 423,
+    "category": "jsx-attribute-copy",
+    "key": "placeholder",
+    "value": "e.g. G44556677"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 434,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "United Kingdom"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 435,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "Canada"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 436,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "Indonesia"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 437,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "Germany"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 438,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "France"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 501,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "•"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 591,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": ":"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 701,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "|"
+  },
+  {
+    "file": "src/components/BadgeGenerator.tsx",
+    "line": 725,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "."
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 6,
+    "category": "english-translations",
+    "key": "en.sectionEyebrow",
+    "value": "SOURCE-TRUTH WORKFLOWS"
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 7,
+    "category": "english-translations",
+    "key": "en.sectionTitle",
+    "value": "AI agents for Saudi Arabia visa processing."
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 8,
+    "category": "english-translations",
+    "key": "en.sectionDesc",
+    "value": "HAJonSoft provides intelligent AI agents for travel agencies and visa processing centers, covering Umrah, Hajj, Visit Visa, Nusuk, passport scanning, and custom workflows."
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 9,
+    "category": "english-translations",
+    "key": "en.learnMore",
+    "value": "Learn more"
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 12,
+    "category": "english-translations",
+    "key": "en.features[0].eyebrow",
+    "value": "BROWSER ENHANCEMENT"
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 13,
+    "category": "english-translations",
+    "key": "en.features[0].title",
+    "value": "Umrah AI Agent"
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 14,
+    "category": "english-translations",
+    "key": "en.features[0].description",
+    "value": "Automates Umrah visa submissions through Masar and Bab Al-Umrah workflows by sending traveller information to Saudi Arabia visa sites, handling passport data entry, photo uploads, and form submissions."
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 15,
+    "category": "english-translations",
+    "key": "en.features[0].tag",
+    "value": "Umrah"
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 16,
+    "category": "english-translations",
+    "key": "en.features[0].type",
+    "value": "white"
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 20,
+    "category": "english-translations",
+    "key": "en.features[1].eyebrow",
+    "value": "HARDWARE & WEB OCR"
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 21,
+    "category": "english-translations",
+    "key": "en.features[1].title",
+    "value": "Passport Scanning AI Agent"
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 22,
+    "category": "english-translations",
+    "key": "en.features[1].description",
+    "value": "Reads passport data from passport images, including Arabic names and birthplace fields. It reads both the MRZ and the visual area of the passport page."
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 23,
+    "category": "english-translations",
+    "key": "en.features[1].tag",
+    "value": "Passport Scanning"
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 24,
+    "category": "english-translations",
+    "key": "en.features[1].type",
+    "value": "sage"
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 28,
+    "category": "english-translations",
+    "key": "en.features[2].eyebrow",
+    "value": "B2B MANAGEMENT"
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 29,
+    "category": "english-translations",
+    "key": "en.features[2].title",
+    "value": "Hajj AI Agent"
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 30,
+    "category": "english-translations",
+    "key": "en.features[2].description",
+    "value": "Submits Hajj visa applications to the Saudi Arabia eHaj system with one streamlined process, including package creation support and photo dimension adjustments before upload."
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 31,
+    "category": "english-translations",
+    "key": "en.features[2].tag",
+    "value": "Hajj"
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 32,
+    "category": "english-translations",
+    "key": "en.features[2].type",
+    "value": "sage"
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 36,
+    "category": "english-translations",
+    "key": "en.features[3].eyebrow",
+    "value": "ENTERPRISE CONNECTIVITY"
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 37,
+    "category": "english-translations",
+    "key": "en.features[3].title",
+    "value": "Visit Visa AI Agent"
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 38,
+    "category": "english-translations",
+    "key": "en.features[3].description",
+    "value": "Processes Saudi Arabia visit visa applications through automated form filling and document submission for agencies handling business, family, or tourist visas at scale."
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 39,
+    "category": "english-translations",
+    "key": "en.features[3].tag",
+    "value": "Visit Visa"
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 40,
+    "category": "english-translations",
+    "key": "en.features[3].type",
+    "value": "white"
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 44,
+    "category": "english-translations",
+    "key": "en.features[4].eyebrow",
+    "value": "PHYSICAL OPERATIONS"
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 45,
+    "category": "english-translations",
+    "key": "en.features[4].title",
+    "value": "Nusuk & Custom AI Agents"
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 46,
+    "category": "english-translations",
+    "key": "en.features[4].description",
+    "value": "Automates Hajj registration by sending traveller data to Saudi Arabia's Nusuk platform. Custom agents, including Rawda workflows, can be built when needed."
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 47,
+    "category": "english-translations",
+    "key": "en.features[4].tag",
+    "value": "Custom Workflows"
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 48,
+    "category": "english-translations",
+    "key": "en.features[4].type",
+    "value": "white"
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 52,
+    "category": "english-translations",
+    "key": "en.features[5].eyebrow",
+    "value": "COMPLIANCE & PROTECTION"
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 53,
+    "category": "english-translations",
+    "key": "en.features[5].title",
+    "value": "Dove Online Sales"
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 54,
+    "category": "english-translations",
+    "key": "en.features[5].description",
+    "value": "Sell travel packages through Dove, a customizable online storefront hosted on your domain, where travellers can reserve packages and submit passport details and personal photos."
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 55,
+    "category": "english-translations",
+    "key": "en.features[5].tag",
+    "value": "Online Sales"
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 56,
+    "category": "english-translations",
+    "key": "en.features[5].type",
+    "value": "sage"
+  },
+  {
+    "file": "src/components/Features.tsx",
+    "line": 395,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "→"
+  },
+  {
+    "file": "src/components/Footer.tsx",
+    "line": 7,
+    "category": "english-translations",
+    "key": "en.description",
+    "value": "HAJonSoft provides intelligent AI agents for travel agencies and visa processing centers, covering Umrah, Hajj, Visit Visa, Nusuk, and passport scanning."
+  },
+  {
+    "file": "src/components/Footer.tsx",
+    "line": 8,
+    "category": "english-translations",
+    "key": "en.productsTitle",
+    "value": "Products"
+  },
+  {
+    "file": "src/components/Footer.tsx",
+    "line": 9,
+    "category": "english-translations",
+    "key": "en.portalsTitle",
+    "value": "Visa Workflows"
+  },
+  {
+    "file": "src/components/Footer.tsx",
+    "line": 10,
+    "category": "english-translations",
+    "key": "en.resourcesTitle",
+    "value": "Travel Agent Resources"
+  },
+  {
+    "file": "src/components/Footer.tsx",
+    "line": 11,
+    "category": "english-translations",
+    "key": "en.resourcesDesc",
+    "value": "HAJonSoft helps agencies send traveller information to Saudi Arabia visa sites through guided AI agent workflows."
+  },
+  {
+    "file": "src/components/Footer.tsx",
+    "line": 12,
+    "category": "english-translations",
+    "key": "en.statusTitle",
+    "value": "Support"
+  },
+  {
+    "file": "src/components/Footer.tsx",
+    "line": 13,
+    "category": "english-translations",
+    "key": "en.statusText",
+    "value": "Meetings, video calls, and remote assistance:"
+  },
+  {
+    "file": "src/components/Footer.tsx",
+    "line": 14,
+    "category": "english-translations",
+    "key": "en.statusActive",
+    "value": "AVAILABLE"
+  },
+  {
+    "file": "src/components/Footer.tsx",
+    "line": 15,
+    "category": "english-translations",
+    "key": "en.copyright",
+    "value": "HAJonSoft. All rights reserved."
+  },
+  {
+    "file": "src/components/Footer.tsx",
+    "line": 16,
+    "category": "english-translations",
+    "key": "en.privacy",
+    "value": "Privacy Policy"
+  },
+  {
+    "file": "src/components/Footer.tsx",
+    "line": 17,
+    "category": "english-translations",
+    "key": "en.terms",
+    "value": "Terms of Service"
+  },
+  {
+    "file": "src/components/Footer.tsx",
+    "line": 113,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "hajonsoft@gmail.com"
+  },
+  {
+    "file": "src/components/Footer.tsx",
+    "line": 117,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "1 (949) 522-1879"
+  },
+  {
+    "file": "src/components/Footer.tsx",
+    "line": 128,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "Umrah AI Agent"
+  },
+  {
+    "file": "src/components/Footer.tsx",
+    "line": 129,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "Hajj AI Agent"
+  },
+  {
+    "file": "src/components/Footer.tsx",
+    "line": 130,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "Visit Visa AI Agent"
+  },
+  {
+    "file": "src/components/Footer.tsx",
+    "line": 131,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "Nusuk AI Agent"
+  },
+  {
+    "file": "src/components/Footer.tsx",
+    "line": 132,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "Passport Scanning AI Agent"
+  },
+  {
+    "file": "src/components/Footer.tsx",
+    "line": 142,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "Bab Al-Umrah workflows"
+  },
+  {
+    "file": "src/components/Footer.tsx",
+    "line": 143,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "Masar workflows"
+  },
+  {
+    "file": "src/components/Footer.tsx",
+    "line": 144,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "eHaj workflows"
+  },
+  {
+    "file": "src/components/Footer.tsx",
+    "line": 145,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "Nusuk workflows"
+  },
+  {
+    "file": "src/components/Footer.tsx",
+    "line": 146,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "Saudi visit visa workflows"
+  },
+  {
+    "file": "src/components/Footer.tsx",
+    "line": 170,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "©"
+  },
+  {
+    "file": "src/components/Footer.tsx",
+    "line": 174,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "SYSTEM_UTC: 2026-07-07"
+  },
+  {
+    "file": "src/components/Footer.tsx",
+    "line": 175,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "|"
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 10,
+    "category": "english-translations",
+    "key": "en.promoRelease",
+    "value": "Source-truth workflows"
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 11,
+    "category": "english-translations",
+    "key": "en.promoTxt",
+    "value": "Umrah, Hajj, Visit Visa, Nusuk & passport scanning"
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 12,
+    "category": "english-translations",
+    "key": "en.certMin",
+    "value": "AI agents for Umrah, Hajj, Visit Visa, Nusuk, and custom workflows"
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 13,
+    "category": "english-translations",
+    "key": "en.certEnc",
+    "value": "Passport image reading across MRZ and visual passport fields"
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 14,
+    "category": "english-translations",
+    "key": "en.certPlat",
+    "value": "Hands-on support through meetings, video calls, and remote assistance"
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 15,
+    "category": "english-translations",
+    "key": "en.botanical",
+    "value": "AI AGENTS FOR SAUDI VISA WORKFLOWS"
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 16,
+    "category": "english-translations",
+    "key": "en.mainTitle",
+    "value": "Automating Saudi Arabia visa workflows."
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 17,
+    "category": "english-translations",
+    "key": "en.mainDesc",
+    "value": "HAJonSoft provides intelligent AI agents that send traveller information to Saudi Arabia visa sites, helping travel agencies streamline Umrah, Hajj, Visit Visa, Nusuk, and passport scanning work."
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 18,
+    "category": "english-translations",
+    "key": "en.btnSandbox",
+    "value": "Launch Live Sandbox"
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 19,
+    "category": "english-translations",
+    "key": "en.btnWorkshop",
+    "value": "Traveller Tags"
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 20,
+    "category": "english-translations",
+    "key": "en.btnWatchVideo",
+    "value": "Watch Demo Video"
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 21,
+    "category": "english-translations",
+    "key": "en.btnTryFree",
+    "value": "Try for Free"
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 22,
+    "category": "english-translations",
+    "key": "en.speedTitle",
+    "value": "ACTIVE AGENTS"
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 23,
+    "category": "english-translations",
+    "key": "en.speedVal",
+    "value": "4"
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 24,
+    "category": "english-translations",
+    "key": "en.speedDesc",
+    "value": "Umrah, Hajj, Visit Visa & Nusuk"
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 25,
+    "category": "english-translations",
+    "key": "en.precisionTitle",
+    "value": "PASSPORT READING"
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 26,
+    "category": "english-translations",
+    "key": "en.precisionVal",
+    "value": "MRZ+"
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 27,
+    "category": "english-translations",
+    "key": "en.precisionDesc",
+    "value": "visual passport fields supported"
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 28,
+    "category": "english-translations",
+    "key": "en.pilgrimsTitle",
+    "value": "GLOBAL REACH"
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 29,
+    "category": "english-translations",
+    "key": "en.pilgrimsVal",
+    "value": "40+"
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 30,
+    "category": "english-translations",
+    "key": "en.pilgrimsDesc",
+    "value": "countries served with multilingual support"
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 31,
+    "category": "english-translations",
+    "key": "en.makkahTab",
+    "value": "Makkah"
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 32,
+    "category": "english-translations",
+    "key": "en.medinaTab",
+    "value": "Medina"
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 33,
+    "category": "english-translations",
+    "key": "en.makkahFull",
+    "value": "Makkah Al-Mukarramah"
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 34,
+    "category": "english-translations",
+    "key": "en.medinaFull",
+    "value": "Al-Madinah Al-Munawwarah"
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 35,
+    "category": "english-translations",
+    "key": "en.destMakkahTag",
+    "value": "HAJJ & UMRAH LOGISTICS"
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 36,
+    "category": "english-translations",
+    "key": "en.destMakkahDesc",
+    "value": "Prepare traveller information for Umrah and Hajj visa workflows."
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 37,
+    "category": "english-translations",
+    "key": "en.destMedinaTag",
+    "value": "ZIYARAH ITINERARIES"
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 38,
+    "category": "english-translations",
+    "key": "en.destMedinaDesc",
+    "value": "Organize traveller data ahead of Saudi Arabia visa submissions."
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 238,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "|"
+  },
+  {
+    "file": "src/components/Navbar.tsx",
+    "line": 15,
+    "category": "english-translations",
+    "key": "en.features",
+    "value": "Features"
+  },
+  {
+    "file": "src/components/Navbar.tsx",
+    "line": 16,
+    "category": "english-translations",
+    "key": "en.sandbox",
+    "value": "Visa Sandbox"
+  },
+  {
+    "file": "src/components/Navbar.tsx",
+    "line": 17,
+    "category": "english-translations",
+    "key": "en.workshop",
+    "value": "Traveller Tags"
+  },
+  {
+    "file": "src/components/Navbar.tsx",
+    "line": 18,
+    "category": "english-translations",
+    "key": "en.pricing",
+    "value": "Pricing"
+  },
+  {
+    "file": "src/components/Navbar.tsx",
+    "line": 19,
+    "category": "english-translations",
+    "key": "en.requestDemo",
+    "value": "Request Demo"
+  },
+  {
+    "file": "src/components/Navbar.tsx",
+    "line": 20,
+    "category": "english-translations",
+    "key": "en.installExtension",
+    "value": "Install Extension"
+  },
+  {
+    "file": "src/components/Navbar.tsx",
+    "line": 21,
+    "category": "english-translations",
+    "key": "en.tryForFree",
+    "value": "Try for Free"
+  },
+  {
+    "file": "src/components/Navbar.tsx",
+    "line": 119,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "🌐"
+  },
+  {
+    "file": "src/components/Navbar.tsx",
+    "line": 125,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "English"
+  },
+  {
+    "file": "src/components/Navbar.tsx",
+    "line": 126,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "العربية"
+  },
+  {
+    "file": "src/components/Navbar.tsx",
+    "line": 127,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "Türkçe"
+  },
+  {
+    "file": "src/components/Navbar.tsx",
+    "line": 128,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "Français"
+  },
+  {
+    "file": "src/components/Navbar.tsx",
+    "line": 129,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "Indonesia"
+  },
+  {
+    "file": "src/components/Navbar.tsx",
+    "line": 130,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "اردو"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 6,
+    "category": "english-translations",
+    "key": "en.sectionEyebrow",
+    "value": "SOURCE-TRUTH PRICING"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 7,
+    "category": "english-translations",
+    "key": "en.sectionTitle",
+    "value": "Software, seasonal support, and volume pricing."
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 8,
+    "category": "english-translations",
+    "key": "en.sectionDesc",
+    "value": "The old site positions pricing around one-time software activation, seasonal support, 15-year support terms, and volume pricing. Final pricing should be confirmed by HAJonSoft."
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 9,
+    "category": "english-translations",
+    "key": "en.includesLabel",
+    "value": "Includes:"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 10,
+    "category": "english-translations",
+    "key": "en.mostPopularBadge",
+    "value": "Most Popular"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 13,
+    "category": "english-translations",
+    "key": "en.plans[0].name",
+    "value": "Software & Database"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 14,
+    "category": "english-translations",
+    "key": "en.plans[0].price",
+    "value": "Quote"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 15,
+    "category": "english-translations",
+    "key": "en.plans[0].period",
+    "value": "one-time"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 16,
+    "category": "english-translations",
+    "key": "en.plans[0].description",
+    "value": "Includes a database, storage for passport and photo data, dedicated sales and admin portals, and lifetime software updates."
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 18,
+    "category": "english-translations",
+    "key": "en.plans[0].features[0]",
+    "value": "One-time software activation"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 19,
+    "category": "english-translations",
+    "key": "en.plans[0].features[1]",
+    "value": "Dedicated sales and admin portals"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 20,
+    "category": "english-translations",
+    "key": "en.plans[0].features[2]",
+    "value": "Passport and photo data storage"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 21,
+    "category": "english-translations",
+    "key": "en.plans[0].features[3]",
+    "value": "Lifetime software updates"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 22,
+    "category": "english-translations",
+    "key": "en.plans[0].features[4]",
+    "value": "Required purchase to activate the software"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 23,
+    "category": "english-translations",
+    "key": "en.plans[0].features[5]",
+    "value": "Non-refundable according to old-site copy"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 25,
+    "category": "english-translations",
+    "key": "en.plans[0].tag",
+    "value": "Basic"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 27,
+    "category": "english-translations",
+    "key": "en.plans[0].cta",
+    "value": "Get a Quote"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 30,
+    "category": "english-translations",
+    "key": "en.plans[1].name",
+    "value": "Seasonal Support"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 31,
+    "category": "english-translations",
+    "key": "en.plans[1].price",
+    "value": "Quote"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 32,
+    "category": "english-translations",
+    "key": "en.plans[1].period",
+    "value": "per season"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 33,
+    "category": "english-translations",
+    "key": "en.plans[1].description",
+    "value": "Support for Hajj and Umrah seasons, including meetings, machine connection, videos, phone calls, and hands-on help."
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 35,
+    "category": "english-translations",
+    "key": "en.plans[1].features[0]",
+    "value": "Umrah seasonal support"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 36,
+    "category": "english-translations",
+    "key": "en.plans[1].features[1]",
+    "value": "Hajj seasonal support"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 37,
+    "category": "english-translations",
+    "key": "en.plans[1].features[2]",
+    "value": "Meetings and video training"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 38,
+    "category": "english-translations",
+    "key": "en.plans[1].features[3]",
+    "value": "Remote assistance on your machine"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 39,
+    "category": "english-translations",
+    "key": "en.plans[1].features[4]",
+    "value": "Up to 100 visa submissions by proxy in supported plans"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 40,
+    "category": "english-translations",
+    "key": "en.plans[1].features[5]",
+    "value": "Technical support"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 42,
+    "category": "english-translations",
+    "key": "en.plans[1].tag",
+    "value": "Most Popular"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 44,
+    "category": "english-translations",
+    "key": "en.plans[1].cta",
+    "value": "Learn More"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 47,
+    "category": "english-translations",
+    "key": "en.plans[2].name",
+    "value": "Lifetime Proxy Access"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 48,
+    "category": "english-translations",
+    "key": "en.plans[2].price",
+    "value": "Quote"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 49,
+    "category": "english-translations",
+    "key": "en.plans[2].period",
+    "value": "15-year term"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 50,
+    "category": "english-translations",
+    "key": "en.plans[2].description",
+    "value": "Long-term support for Hajj and Umrah operations, including troubleshooting and expert support for agency workflows."
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 52,
+    "category": "english-translations",
+    "key": "en.plans[2].features[0]",
+    "value": "15 years of support"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 53,
+    "category": "english-translations",
+    "key": "en.plans[2].features[1]",
+    "value": "Hajj and Umrah support"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 54,
+    "category": "english-translations",
+    "key": "en.plans[2].features[2]",
+    "value": "Daily visa application processing support"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 55,
+    "category": "english-translations",
+    "key": "en.plans[2].features[3]",
+    "value": "Troubleshooting assistance"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 56,
+    "category": "english-translations",
+    "key": "en.plans[2].features[4]",
+    "value": "Expert support for agency operations"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 57,
+    "category": "english-translations",
+    "key": "en.plans[2].features[5]",
+    "value": "Volume pricing available"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 59,
+    "category": "english-translations",
+    "key": "en.plans[2].tag",
+    "value": "Long-Term Support"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 61,
+    "category": "english-translations",
+    "key": "en.plans[2].cta",
+    "value": "Get a Quote"
+  },
+  {
+    "file": "src/components/Pricing.tsx",
+    "line": 440,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "/"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 10,
+    "category": "english-translations",
+    "key": "en.demoBadge",
+    "value": "LIVE PRODUCT DEMO"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 11,
+    "category": "english-translations",
+    "key": "en.demoTitle",
+    "value": "See the OCR Scanner & Autofiller in Action"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 12,
+    "category": "english-translations",
+    "key": "en.demoDesc",
+    "value": "Select a sample passport from the travel agent's queue below, trigger the MRZ scanner, and see how our browser extension auto-populates the Saudi portals instantly."
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 13,
+    "category": "english-translations",
+    "key": "en.step1Title",
+    "value": "Select Pilgrim Passport"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 14,
+    "category": "english-translations",
+    "key": "en.step1Desc",
+    "value": "Choose a country-specific passport to simulate scanning."
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 15,
+    "category": "english-translations",
+    "key": "en.step2Title",
+    "value": "Hajonsoft OCR Scan"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 16,
+    "category": "english-translations",
+    "key": "en.step2Ready",
+    "value": "Ready"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 17,
+    "category": "english-translations",
+    "key": "en.awaitingFeed",
+    "value": "Awaiting passport feed..."
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 18,
+    "category": "english-translations",
+    "key": "en.extDataFields",
+    "value": "Extracted Data Fields"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 19,
+    "category": "english-translations",
+    "key": "en.givenName",
+    "value": "Given Name"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 20,
+    "category": "english-translations",
+    "key": "en.surname",
+    "value": "Surname"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 21,
+    "category": "english-translations",
+    "key": "en.passportNo",
+    "value": "Passport No."
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 22,
+    "category": "english-translations",
+    "key": "en.nationality",
+    "value": "Nationality"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 23,
+    "category": "english-translations",
+    "key": "en.dob",
+    "value": "Date of Birth"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 24,
+    "category": "english-translations",
+    "key": "en.expiryDate",
+    "value": "Expiry Date"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 25,
+    "category": "english-translations",
+    "key": "en.step3Title",
+    "value": "Saudi Visa Portal Autofill"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 26,
+    "category": "english-translations",
+    "key": "en.step3Desc",
+    "value": "Select Ministry system to push pilgrim data."
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 27,
+    "category": "english-translations",
+    "key": "en.extensionActive",
+    "value": "Extension Active"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 28,
+    "category": "english-translations",
+    "key": "en.ministryHeader",
+    "value": "MINISTRY OF HAJJ AND UMRAH"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 29,
+    "category": "english-translations",
+    "key": "en.visaAppModule",
+    "value": "Visa Application Module"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 30,
+    "category": "english-translations",
+    "key": "en.formIdLabel",
+    "value": "Form-ID: MoHU-204"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 31,
+    "category": "english-translations",
+    "key": "en.passportNumLabel",
+    "value": "Passport Number"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 32,
+    "category": "english-translations",
+    "key": "en.nationalityLabel",
+    "value": "Nationality / GDS Country"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 33,
+    "category": "english-translations",
+    "key": "en.givenNameLabel",
+    "value": "English Given Name"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 34,
+    "category": "english-translations",
+    "key": "en.surnameLabel",
+    "value": "English Father/Surname"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 35,
+    "category": "english-translations",
+    "key": "en.dobLabel",
+    "value": "Date of Birth (YYYY-MM-DD)"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 36,
+    "category": "english-translations",
+    "key": "en.expiryLabel",
+    "value": "Passport Expiry Date"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 37,
+    "category": "english-translations",
+    "key": "en.genderLabel",
+    "value": "Gender"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 38,
+    "category": "english-translations",
+    "key": "en.birthPlaceLabel",
+    "value": "City of Birth"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 39,
+    "category": "english-translations",
+    "key": "en.triggerQuestion",
+    "value": "Ready to trigger Hajonsoft Extension?"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 40,
+    "category": "english-translations",
+    "key": "en.triggerDesc",
+    "value": "Pushing this data will demonstrate how traveller information can populate the target visa workflow fields."
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 41,
+    "category": "english-translations",
+    "key": "en.btnFilling",
+    "value": "Filling Form..."
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 42,
+    "category": "english-translations",
+    "key": "en.btnAutofill",
+    "value": "Autofill Form"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 44,
+    "category": "english-translations",
+    "key": "en.scanLogs[0]",
+    "value": "Initializing camera & flatbed interfaces..."
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 45,
+    "category": "english-translations",
+    "key": "en.scanLogs[1]",
+    "value": "Locating ICAO Document machine-readable zones..."
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 46,
+    "category": "english-translations",
+    "key": "en.scanLogs[2]",
+    "value": "Decoding MRZ character lines 1 & 2..."
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 47,
+    "category": "english-translations",
+    "key": "en.scanLogs[3]",
+    "value": "Validating checksum algorithms & expiration checks..."
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 48,
+    "category": "english-translations",
+    "key": "en.scanLogs[4]",
+    "value": "Extraction finished successfully."
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 396,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "1"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 436,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "2"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 464,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "HAJONSOFT_OCR_v5.4"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 465,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "BAUD_9600"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 472,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "▶ ANALYZING..."
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 481,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "⚡ OCR EXTRACTION READY"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 482,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "MRZ_L1:"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 483,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "MRZ_L2:"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 485,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "PASSPORT:"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 486,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "NATION:"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 487,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "NAME:"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 488,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "SURNAME:"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 500,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "D-READER_ONLINE"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 501,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "SYSTEM_STABLE"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 526,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "("
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 526,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": ")"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 549,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "3"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 589,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "https://"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 589,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": ".passport.gov.sa/visa/apply"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 621,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "*"
+  },
+  {
+    "file": "src/components/Sandbox.tsx",
+    "line": 627,
+    "category": "jsx-attribute-copy",
+    "key": "placeholder",
+    "value": "--"
+  },
+  {
+    "file": "src/components/VideoDemo.tsx",
+    "line": 6,
+    "category": "english-translations",
+    "key": "en.sectionEyebrow",
+    "value": "PRODUCT IN ACTION"
+  },
+  {
+    "file": "src/components/VideoDemo.tsx",
+    "line": 7,
+    "category": "english-translations",
+    "key": "en.sectionTitle",
+    "value": "Watch Hajonsoft in action"
+  },
+  {
+    "file": "src/components/VideoDemo.tsx",
+    "line": 8,
+    "category": "english-translations",
+    "key": "en.sectionDesc",
+    "value": "Watch how HAJonSoft AI agents scan passports, fill visa forms automatically, and send traveller information to Saudi Arabia visa sites in one guided workflow."
+  },
+  {
+    "file": "src/components/VideoDemo.tsx",
+    "line": 9,
+    "category": "english-translations",
+    "key": "en.featuresTitle",
+    "value": "Why travel agents choose Hajonsoft"
+  },
+  {
+    "file": "src/components/VideoDemo.tsx",
+    "line": 10,
+    "category": "english-translations",
+    "key": "en.feature1",
+    "value": "AI agents for Umrah, Hajj, Visit Visa, Nusuk, and passport scanning"
+  },
+  {
+    "file": "src/components/VideoDemo.tsx",
+    "line": 11,
+    "category": "english-translations",
+    "key": "en.feature2",
+    "value": "Passport image reading across MRZ and visual passport fields"
+  },
+  {
+    "file": "src/components/VideoDemo.tsx",
+    "line": 12,
+    "category": "english-translations",
+    "key": "en.feature3",
+    "value": "Automatic photo resizing and form submission support"
+  },
+  {
+    "file": "src/components/VideoDemo.tsx",
+    "line": 13,
+    "category": "english-translations",
+    "key": "en.feature4",
+    "value": "Custom agents such as Rawda workflows when needed"
+  },
+  {
+    "file": "src/components/VideoDemo.tsx",
+    "line": 14,
+    "category": "english-translations",
+    "key": "en.feature5",
+    "value": "Hands-on support through meetings, video calls, and remote assistance"
+  },
+  {
+    "file": "src/components/VideoDemo.tsx",
+    "line": 15,
+    "category": "english-translations",
+    "key": "en.watchVideoBtn",
+    "value": "Watch Walkthrough Demo"
+  },
+  {
+    "file": "src/components/VideoDemo.tsx",
+    "line": 115,
+    "category": "jsx-attribute-copy",
+    "key": "title",
+    "value": "Hajonsoft Official Video Walkthrough Demo"
+  },
+  {
+    "file": "src/components/VideoDemo.tsx",
+    "line": 119,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "Official demonstration video of the Hajonsoft Automated Visa Suite."
+  },
+  {
+    "file": "src/components/VideoDemo.tsx",
+    "line": 147,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "Need a custom agent?"
+  },
+  {
+    "file": "src/components/VideoDemo.tsx",
+    "line": 150,
+    "category": "jsx-visible-text",
+    "key": "jsx",
+    "value": "HAJonSoft can build specialized agents, including Rawda workflows and other Saudi Arabia visa processing needs."
+  }
+]

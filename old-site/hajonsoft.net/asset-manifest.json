@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.565c96e2.css",
+    "main.js": "/static/js/main.fcbf45bc.js",
+    "static/js/807.abcf8c7c.chunk.js": "/static/js/807.abcf8c7c.chunk.js",
+    "static/js/736.4e205ef2.chunk.js": "/static/js/736.4e205ef2.chunk.js",
+    "static/js/586.e5d7300a.chunk.js": "/static/js/586.e5d7300a.chunk.js",
+    "static/js/806.05bd6dd0.chunk.js": "/static/js/806.05bd6dd0.chunk.js",
+    "static/js/15.78160a82.chunk.js": "/static/js/15.78160a82.chunk.js",
+    "static/js/2.b8dfb162.chunk.js": "/static/js/2.b8dfb162.chunk.js",
+    "static/js/994.78ad8806.chunk.js": "/static/js/994.78ad8806.chunk.js",
+    "static/js/447.0326009d.chunk.js": "/static/js/447.0326009d.chunk.js",
+    "static/js/851.47c35846.chunk.js": "/static/js/851.47c35846.chunk.js",
+    "static/js/873.253f322f.chunk.js": "/static/js/873.253f322f.chunk.js",
+    "static/js/27.ca039244.chunk.js": "/static/js/27.ca039244.chunk.js",
+    "static/js/264.f354bf1a.chunk.js": "/static/js/264.f354bf1a.chunk.js",
+    "static/js/895.406699ae.chunk.js": "/static/js/895.406699ae.chunk.js",
+    "static/js/810.f214216a.chunk.js": "/static/js/810.f214216a.chunk.js",
+    "static/media/get-started-optimized.jpg": "/static/media/get-started-optimized.798f2e8a1e58037b31f6.jpg",
+    "static/media/logo.png": "/static/media/logo.47ac9b4f3e13a37d967f.png",
+    "static/media/owl.svg": "/static/media/owl.2f86a4ac9bfa9afcf0bdf43ad81faa72.svg",
+    "index.html": "/index.html",
+    "static/media/lisbon.svg": "/static/media/lisbon.8e4c015a3f80ec2ae0a4acbfcee1715c.svg"
+  },
+  "entrypoints": [
+    "static/css/main.565c96e2.css",
+    "static/js/main.fcbf45bc.js"
+  ]
+}
